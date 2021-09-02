@@ -20,9 +20,11 @@ sections:
           per month, billed yearly
 
           * __Et semper__ 
-                |----------|:-------------:|------:|
-                | col 1 is |  left-aligned | $1600 |congue
-          * Quisque eleifend imperdiet tortor
+            | Aligné à gauche  | Centré          | Aligné à droite |
+            | :--------------- |:---------------:| -----:|
+            | Aligné à gauche  |   ce texte        |  Aligné à droite |
+            | Aligné à gauche  | est             |   Aligné à droite |
+            | Aligné à gauche  | centré          |    Aligné à droite | 
           * Elementum eu rhoncus, volutpat
           * Nisi cubilia interdum ultricies
         content_align: left
