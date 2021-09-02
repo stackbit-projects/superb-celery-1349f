@@ -19,7 +19,7 @@ sections:
 
           per month, billed yearly
 
-          * __Et semper__ | Tables   |      Are      |  Cool |
+          * __Et semper__ 
                 |----------|:-------------:|------:|
                 | col 1 is |  left-aligned | $1600 |congue
           * Quisque eleifend imperdiet tortor
