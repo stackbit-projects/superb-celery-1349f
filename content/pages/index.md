@@ -1,5 +1,5 @@
 ---
-title: Home
+title: La page de __Yoann__
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
